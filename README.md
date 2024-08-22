@@ -3,6 +3,7 @@
 Oi, eu sou o Rodrigo.
 
 Neste projeto, que foi desenvolvido durante o curso "JavaScript Completo ES6" ministrado pela [Origamid](https://origamid.com), desenvolvi o site Animais Fantásticos durante o módulo "DOM para Iniciantes".
+Este site foi utilizado para estudar diversas funcionalidades utilizando JavaScript, portanto seus scripts foram armazenados apenas para consultas destes estudos.
 
 Utilizei as ferramentas:\
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
