@@ -2,7 +2,7 @@
 
 Oi, eu sou o Rodrigo.
 
-Neste projeto, que foi desenvolvido durante o curso "JavaScript Completo ES6" ministrado pela [Origamid](https://origamid.com), desenvolvi o site Animais Fantásticos durante o módulo DOM para Iniciantes.
+Neste projeto, que foi desenvolvido durante o curso "JavaScript Completo ES6" ministrado pela [Origamid](https://origamid.com), desenvolvi o site Animais Fantásticos durante o módulo "DOM para Iniciantes".
 
 Utilizei as ferramentas:\
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +15,7 @@ Utilizei as ferramentas:\
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Conteúdo programático abordado e estudado durante o desenvolvimento:
+## Conteúdo programático abordado no módulo "DOM para Iniciantes" e estudado durante o desenvolvimento:
 
 1. O que é DOM?
 2. Seleção de elementos
