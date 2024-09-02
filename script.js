@@ -23,3 +23,5 @@ function handleLinkExterno(event) {
 }
 
 linkExterno.addEventListener("click", handleLinkExterno);
+
+//Parei em Diferentes Eventos
