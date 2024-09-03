@@ -11,6 +11,15 @@ dt {
   padding: 0px;
 }
 
+/* Início do Exercício de Eventos */
+html {
+  font-size: 16px;
+}
+html.textomaior {
+  font-size: 150%;
+}
+/* Fim do Exercício de Eventos */
+
 img {
   display: block;
   max-width: 100%;
